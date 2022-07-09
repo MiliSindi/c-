@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DISK_C\\Desktop\\C#_2\\Sem4_Ex29\\Sem4_Ex29.csproj": {}
+  },
+  "projects": {
+    "D:\\DISK_C\\Desktop\\C#_2\\Sem4_Ex29\\Sem4_Ex29.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DISK_C\\Desktop\\C#_2\\Sem4_Ex29\\Sem4_Ex29.csproj",
+        "projectName": "Sem4_Ex29",
+        "projectPath": "D:\\DISK_C\\Desktop\\C#_2\\Sem4_Ex29\\Sem4_Ex29.csproj",
+        "packagesPath": "C:\\Users\\USERn\\.nuget\\packages\\",
+        "outputPath": "D:\\DISK_C\\Desktop\\C#_2\\Sem4_Ex29\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USERn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

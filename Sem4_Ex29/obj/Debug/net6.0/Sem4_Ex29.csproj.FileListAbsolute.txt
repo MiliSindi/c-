@@ -1,0 +1,15 @@
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\bin\Debug\net6.0\Sem4_Ex29.exe
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\bin\Debug\net6.0\Sem4_Ex29.deps.json
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\bin\Debug\net6.0\Sem4_Ex29.runtimeconfig.json
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\bin\Debug\net6.0\Sem4_Ex29.dll
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\bin\Debug\net6.0\Sem4_Ex29.pdb
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\obj\Debug\net6.0\Sem4_Ex29.csproj.AssemblyReference.cache
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\obj\Debug\net6.0\Sem4_Ex29.GeneratedMSBuildEditorConfig.editorconfig
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\obj\Debug\net6.0\Sem4_Ex29.AssemblyInfoInputs.cache
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\obj\Debug\net6.0\Sem4_Ex29.AssemblyInfo.cs
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\obj\Debug\net6.0\Sem4_Ex29.csproj.CoreCompileInputs.cache
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\obj\Debug\net6.0\Sem4_Ex29.dll
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\obj\Debug\net6.0\refint\Sem4_Ex29.dll
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\obj\Debug\net6.0\Sem4_Ex29.pdb
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\obj\Debug\net6.0\Sem4_Ex29.genruntimeconfig.cache
+D:\DISK_C\Desktop\C#_2\Sem4_Ex29\obj\Debug\net6.0\ref\Sem4_Ex29.dll
