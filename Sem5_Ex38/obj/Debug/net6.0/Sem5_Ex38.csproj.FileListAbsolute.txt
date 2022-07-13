@@ -1,0 +1,15 @@
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\bin\Debug\net6.0\Sem5_Ex38.exe
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\bin\Debug\net6.0\Sem5_Ex38.deps.json
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\bin\Debug\net6.0\Sem5_Ex38.runtimeconfig.json
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\bin\Debug\net6.0\Sem5_Ex38.dll
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\bin\Debug\net6.0\Sem5_Ex38.pdb
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\obj\Debug\net6.0\Sem5_Ex38.csproj.AssemblyReference.cache
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\obj\Debug\net6.0\Sem5_Ex38.GeneratedMSBuildEditorConfig.editorconfig
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\obj\Debug\net6.0\Sem5_Ex38.AssemblyInfoInputs.cache
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\obj\Debug\net6.0\Sem5_Ex38.AssemblyInfo.cs
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\obj\Debug\net6.0\Sem5_Ex38.csproj.CoreCompileInputs.cache
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\obj\Debug\net6.0\Sem5_Ex38.dll
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\obj\Debug\net6.0\refint\Sem5_Ex38.dll
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\obj\Debug\net6.0\Sem5_Ex38.pdb
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\obj\Debug\net6.0\Sem5_Ex38.genruntimeconfig.cache
+D:\DISK_C\Desktop\C#_2\Sem5_Ex38\obj\Debug\net6.0\ref\Sem5_Ex38.dll
