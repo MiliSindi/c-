@@ -16,7 +16,7 @@ int[] FillArray(int[] size)
     return size;
 }
 
-void CountOddNumbers(int[] array)
+void CountEvenNumbers(int[] array)
 {
     int count = 0;
     for (int i = 0; i < array.Length; i++)
@@ -25,4 +25,4 @@ void CountOddNumbers(int[] array)
     }
     Console.WriteLine(count);
 }
-CountOddNumbers (newArray);
+CountEvenNumbers (newArray);
