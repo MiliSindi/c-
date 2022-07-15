@@ -24,7 +24,7 @@ void CheckTwoLine(double[] firstArray, double[] secondArray, double[] crossPoint
     }
     else if(firstArray[0] != secondArray[0] && firstArray[1] == secondArray[1])
     {
-        Console.WriteLine("Прямые совпадают");
+        Console.WriteLine("Прямые параллельны");
     }
     else if(firstArray[0] == secondArray[0] && firstArray[1] != secondArray[1])
     {
