@@ -1,0 +1,15 @@
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\bin\Debug\net6.0\Sem6_Ex43.exe
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\bin\Debug\net6.0\Sem6_Ex43.deps.json
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\bin\Debug\net6.0\Sem6_Ex43.runtimeconfig.json
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\bin\Debug\net6.0\Sem6_Ex43.dll
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\bin\Debug\net6.0\Sem6_Ex43.pdb
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\obj\Debug\net6.0\Sem6_Ex43.csproj.AssemblyReference.cache
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\obj\Debug\net6.0\Sem6_Ex43.GeneratedMSBuildEditorConfig.editorconfig
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\obj\Debug\net6.0\Sem6_Ex43.AssemblyInfoInputs.cache
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\obj\Debug\net6.0\Sem6_Ex43.AssemblyInfo.cs
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\obj\Debug\net6.0\Sem6_Ex43.csproj.CoreCompileInputs.cache
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\obj\Debug\net6.0\Sem6_Ex43.dll
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\obj\Debug\net6.0\refint\Sem6_Ex43.dll
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\obj\Debug\net6.0\Sem6_Ex43.pdb
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\obj\Debug\net6.0\Sem6_Ex43.genruntimeconfig.cache
+D:\DISK_C\Desktop\C#_2\Sem6_Ex43\obj\Debug\net6.0\ref\Sem6_Ex43.dll
