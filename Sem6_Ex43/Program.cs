@@ -18,7 +18,7 @@ double[] CrossPoint(double[] firstArray, double[] secondArray)
 
 void CheckTwoLine(double[] firstArray, double[] secondArray, double[] crossPoint)
 {
-    if(firstArray[0] == secondArray[0] && firstArray[1] == secondArray[1])
+    if(firstArray[0] == secondArray[0] && firstArray[1] == secondArray[1]) 
     {
         Console.WriteLine("Прямые совпадают");
     }
@@ -37,9 +37,9 @@ void CheckTwoLine(double[] firstArray, double[] secondArray, double[] crossPoint
     }
 }
 
-Console.WriteLine("Введите координаты первой прямой x y через пробел:");
+Console.WriteLine("Введите координаты первой прямой b1 и k1 соответственно через пробел:");
 double[] firstСoordinatesArray = ConvertDataToIntArray();
-Console.WriteLine("Введите координаты второй прямой x y через пробел:");
+Console.WriteLine("Введите координаты второй прямой b2 и k2 соответственно через пробел:");
 double[] secondCoorditatesArray = ConvertDataToIntArray();
 
 double[] crossPoint = CrossPoint(firstСoordinatesArray, secondCoorditatesArray);
